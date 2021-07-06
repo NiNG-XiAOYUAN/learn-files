@@ -1,5 +1,5 @@
 ---
-typora-root-url: files
+typora-copy-images-to: files
 ---
 
 # learn-files 
@@ -13,5 +13,5 @@ typora-root-url: files
 
 - [ ] 前端三剑客
 
-  ![](/QQ截图20210706220753.png)
+  ![](C:\Users\CENTE\Desktop\learn-files\files\230259hfkew67ed8a2piyc.png)
 
