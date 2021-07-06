@@ -1,7 +1,3 @@
----
-typora-copy-images-to: files
----
-
 # learn-files 
 记录一些日常事务包括日常代码的练习
 
@@ -13,5 +9,4 @@ typora-copy-images-to: files
 
 - [ ] 前端三剑客
 
-  ![](C:\Users\CENTE\Desktop\learn-files\files\230259hfkew67ed8a2piyc.png)
 
