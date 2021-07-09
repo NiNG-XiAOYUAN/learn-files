@@ -3,11 +3,10 @@
 
 现阶段学习，努力学习！！！慢慢地来吧
 
-- [ ] python
+- [ ] python  - [ ] markdown  - [ ] 前端三剑客
 
-- [ ] markdown
 
-- [ ] 前端三剑客
+高清壁纸镇守
 <a href="https://github.com/NiNG-XiAOYUAN">
     <img src="https://github.com/NiNG-XiAOYUAN/learn-files/blob/main/files/230259hfkew67ed8a2piyc.png?raw=true">
 </a> 
